@@ -8,7 +8,7 @@
 #ifndef BDExampleGlobal_h
 #define BDExampleGlobal_h
 
-#import "Masonry.h"
+// #import "Masonry.h"
 
 #define STRING(str)  ((str) != nil ? [NSString stringWithFormat:@"%@", (str)] : @"")
 
